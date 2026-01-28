@@ -1,0 +1,4 @@
+REACT_APP_API_URL="http://localhost:4000"
+
+MONGO_URL:"mongodb+srv://rashmiec23_db_user:jE97F4IjxqLUpe0z@cluster0.auj2biz.mongodb.net/?appName=Cluster0";
+PORT:4000
